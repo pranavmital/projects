@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: okay@samesies.io
 baseurl: "/projects"
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 google_analytics: 
 
 name: Thomas Vaeth
@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Pranav Mital | Projects'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
