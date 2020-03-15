@@ -5,7 +5,7 @@ permalink: /:title/
 google_analytics: 
 
 name: Pranav Mital
-title: 
+title: Pranav Mital | Projects
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 url: 
@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'Pranav Mital | Projects'
+    title: ''
     permalink: '/tag/:tag'
     slugify:
       mode: raw
