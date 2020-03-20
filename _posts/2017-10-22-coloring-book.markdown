@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Coloring Book"
-date: You'll be redirected to Medium
+date: 2017-10-22
 description: 
 image: /assets/images/placeholder-8.jpg
-author: Thomas Vaeth
+author: Pranav Mital
 
 tags: 
   - Squid
@@ -13,3 +13,5 @@ tags:
 
 external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74  
 ---
+
+### You'll be redirected to Medium!
