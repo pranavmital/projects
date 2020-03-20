@@ -5,10 +5,13 @@ date: 2017-10-22
 description: 
 image: /assets/images/placeholder-8.jpg
 author: Thomas Vaeth
+
 tags: 
   - Squid
   - Moon Drinking
   - Kale
+
+external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74  
 ---
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
 
