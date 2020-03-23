@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TEDx Product Design"
-date: 2020-3-24
+date: 2017-10-23
 description: A Case Study
 image: /assets/images/tedxcover.jpg
 author: Pranav Mital
