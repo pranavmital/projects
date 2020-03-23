@@ -34,7 +34,7 @@ My design lead told me that the printing agency we were going to use could only 
 
 I wanted it to seem like the shape of the sticker and the design of the sticker were made for each other. I like to think of this as being metaphorically analogous to when a company is able to design the software as well as the hardware of a product to provide/deliver a seamless experience. 
 
-So I started thinking of things I see in everyday life that are circular and after iterating through many, I landed at circular traffic signs.  
+So I started thinking of things I see in everyday life that are circular and after iterating through many, I landed on circular traffic signs.  
 
 ![Sticker1](/assets/images/tedx7.jpg)
 ![Sticker2](/assets/images/tedx8.jpg)
