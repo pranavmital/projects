@@ -30,9 +30,11 @@ In the paragraphs that follow, I’ll give a product by product breakdown of wha
 ![Diary2](/assets/images/tedx6.jpg)
 
 ### The Sticker
-My design lead told me that the printing agency we were going to use could only print circular stickers. This was a constraint given to me. But I didn’t want the users of the sticker to get to know that. Oftentimes, designs look like they’ve been forcefully masked or cropped into a particular shape, and I wanted to prevent exactly that. I wanted it to seem like the shape of the sticker and the design of the sticker were made for each other. I like to think of this as being metaphorically analogous to when a company is able to design the software as well as the hardware of a product to provide/deliver a seamless experience. 
+My design lead told me that the printing agency we were going to use could only print circular stickers. This was a constraint given to me, but I didn’t want the users of the sticker to get to know that. Oftentimes, designs look like they’ve been forcefully masked or cropped into a particular shape, and I wanted to prevent exactly that. 
 
-So I thought of things I see in everyday life that are circular, and after iterating through multiple things, I landed at circular traffic signs. 
+I wanted it to seem like the shape of the sticker and the design of the sticker were made for each other. I like to think of this as being metaphorically analogous to when a company is able to design the software as well as the hardware of a product to provide/deliver a seamless experience. 
+
+So I started thinking of things I see in everyday life that are circular and after iterating through many, I landed at circular traffic signs.  
 
 ![Sticker1](/assets/images/tedx7.jpg)
 ![Sticker2](/assets/images/tedx8.jpg)
