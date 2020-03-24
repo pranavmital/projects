@@ -66,7 +66,7 @@ One challenge that came with picking the vinyl was that it could be stuck by the
 ![Sticker4](/assets/images/tedx9.jpg)
 
 ### The Certificate
-The event organizer wanted to include a certificate in the goodie bag for all attendees. Since there’s no real prestige associated with simply attending a TEDx attend somewhere, creating a serious certificate of attendance seemed a bit silly to me as I didn’t think it’d useful in any other way than as a souvenir. 
+The event organizer wanted to include a certificate in the goodie bag for all attendees. Since there’s no real prestige associated with simply attending a TEDx event somewhere, creating a serious certificate of attendance seemed a bit silly to me. I didn’t think a certificate would useful in any way other than as a souvenir. 
 
 I wanted to make something that would make attendees remember the event. Something that they might stick on their pin-board or the wall behind their desk. So I asked my team lead if I could be a bit quirky with the certificate. He said yes and I came up with the idea of making the certificate pose itself as giving a TED talk. A TEDx certificate giving a TED talk? TEDception!
 
