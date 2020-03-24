@@ -8,12 +8,13 @@ author: Pranav Mital
 tags: 
   - Design
   - Product Design
+  - College
 ---
 ![Cover](/assets/images/tedxcover.jpg)
 
 I worked as a Product Designer for the 2020 edition of my university’s TEDx event. My job was to design the contents of the goodie bag which was to be given to all speakers as well as every person who bought a ticket to the event. I also had the task of designing the ticket itself.   
 
-The goal was to create a set of items that would generate hype and lead to healthy number of tickets getting sold.
+The goal was to create a set of items that would generate hype and increase ticket sales.
 
 In the paragraphs that follow, I’ll give a product by product breakdown of what went through my head as I designed each of them and why I did what I did.  
 
@@ -30,14 +31,20 @@ In the paragraphs that follow, I’ll give a product by product breakdown of wha
 ![Diary2](/assets/images/tedx6.jpg)
 
 ### The Sticker
-My design lead told me that the printing agency we were going to use could only print circular stickers. This was a constraint given to me, but I didn’t want the users of the sticker to get to know that. Oftentimes, designs look like they’ve been forcefully masked or cropped into a particular shape, and I wanted to prevent exactly that. 
+My team lead told me that the printing agency we were going to use could only print circular stickers. This was a constraint given to me, but I didn’t want the users of the sticker to get to know that. Oftentimes, designs look like they’ve been forcefully masked or cropped into a particular shape, and I wanted to prevent exactly that. 
 
 I wanted it to seem like the shape of the sticker and the design of the sticker were made for each other. I like to think of this as being metaphorically analogous to when a company is able to design the software as well as the hardware of a product to provide/deliver a seamless experience. 
 
-So I started thinking of things I see in everyday life that are circular and after iterating through many, I landed on **circular traffic signs** and came up with a sticker that looked like one.  
+So I started thinking of things I see in everyday life that are circular and after iterating through many, I landed on circular traffic signs and came up with this design.  
 
 ![Sticker1](/assets/images/tedx7.jpg)
+
+However, my the team lead didn't like it as much and asked me to think of something else. 
+
 ![Sticker2](/assets/images/tedx8.jpg)
+
+jk
+
 ![Sticker3](/assets/images/tedx9.jpg)
 
 ### The Certificate
