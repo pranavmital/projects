@@ -31,6 +31,8 @@ At first, I had used dummy barcodes to form the **X** but then I later thought t
 ![Ticket3](/assets/images/tedx3.jpg)
 
 ### The Bookmark
+The theme of this year’s event was ‘Quo Vadis?’, which is latin for ‘where are we headed?’. In my design of the bookmark, I visually told the story of the journey of two rectangles which go from being mundane, easy to ignore shapes to becoming the famous TEDx **X** and thus showed ‘where they were headed’. 
+
 ![Bookmark](/assets/images/tedx4.jpg)
 
 ### The Diary
@@ -40,7 +42,7 @@ At first, I had used dummy barcodes to form the **X** but then I later thought t
 ### The Laptop Sticker
 My team lead told me that the printing agency we were going to use could only print circular stickers. This was a constraint given to me, but I didn’t want the users of the sticker to get to know that. Oftentimes, designs look like they’ve been forcefully masked or cropped into a particular shape, and I wanted to prevent exactly that. 
 
-I wanted it to seem like the shape of the sticker and the design of the sticker were made for each other. I like to think of this as being metaphorically analogous to when a company is able to design the software as well as the hardware of a product to provide/deliver a seamless experience. 
+I wanted it to seem like the shape of the sticker and the design of the sticker were made for each other. I like to think of this as being metaphorically analogous to when a company is able to design the software as well as the hardware of a product and deliver a seamless experience. 
 
 So I started thinking of things I see in everyday life that are circular and after iterating through many, I landed on circular traffic signs and came up with this design.  
 
@@ -50,11 +52,16 @@ However, my team lead didn't like it as much and asked me to think of something 
 
 ![Sticker2](/assets/images/tedx8.jpg)
 
+One challenge that came with picking the vinyl was that it could be stuck by the user in any orientation because there isn't any 'correct orientation'. Because of this, I needed to make sure that the graphic at the center of the vinyl should be orientation agnostic. This eliminated the possibilty of using a right-angled cross to form the **X** as that would look like a 'plus' if rotated. This is why I knew I wanted to place an acute-angled **X** in the vinyl. I looked through the reposiory of graphics our team had made for different purposes over the course of the past few months, and found an interesting isometric illustration of the **X** which was made by my team lead, [Abhilash](https://www.behance.net/abhilashbhowmik). I decided to use that as the center graphic of my vinyl.  
 
+![Sticker3](/assets/images/tedx12.png)
 
-
-![Sticker3](/assets/images/tedx9.jpg)
+![Sticker4](/assets/images/tedx9.jpg)
 
 ### The Certificate
+The event organizer wanted to include a certificate in the goodie bag for all attendees. Since there’s no real prestige associated with simply attending a TEDx attend somewhere, creating a serious certificate of attendance seemed a bit silly to me as I didn’t think it’d useful in any other way than as a souvenir. 
+
+I wanted to make something that would make attendees remember the event. Something that they might stick on their pin-board or the wall behind their desk. So I asked my team lead if I could be a bit quirky with the certificate. He said yes and I came up with the idea of making the certificate pose itself as giving a TED talk. A TEDx certificate giving a TED talk? TEDception!
+
 ![Certificate](/assets/images/tedx10.jpg)
 ![Certificate2](/assets/images/tedx11.jpg)
