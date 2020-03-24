@@ -52,7 +52,7 @@ My team lead told me that the printing agency could only print circular stickers
 
 I wanted it to seem like the shape of the sticker and the design of the sticker were made for each other. I like to think of this as being metaphorically analogous to when a company is able to design the software as well as the hardware of a product and deliver a seamless experience. 
 
-So I started thinking of things I see in everyday life that are circular and after iterating through many, I landed on circular traffic signs and came up with this design.  
+I started thinking of things I see in everyday life that are circular and after iterating through many, I landed on circular traffic signs and came up with this design.  
 
 ![Sticker1](/assets/images/tedx7.jpg)
 
