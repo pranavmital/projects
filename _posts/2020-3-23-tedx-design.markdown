@@ -32,7 +32,7 @@ At first, I used dummy barcodes to form the **X** but then later thought to myse
 ![Ticket3](/assets/images/tedx3.jpg)
 
 ### The Bookmark
-The theme of this year’s event was ‘Quo Vadis?’, which is latin for ‘where are we headed?’. In my design of the bookmark, I visually told the story of the journey of two rectangles which go from being mundane, easy to ignore shapes to becoming the famous TEDx **X** and thus showed ‘where they were headed’. 
+The theme of this year’s event was ‘Quo Vadis?’, which is latin for ‘where are we headed?’. In my design of the bookmark, I visually told the story of the journey of two rectangles which go from being mundane, easy to ignore shapes to becoming the famous **X** and thus showed ‘where they were headed’. 
 
 ![Bookmark](/assets/images/tedx4.jpg)
 
