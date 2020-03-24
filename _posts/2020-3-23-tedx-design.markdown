@@ -36,7 +36,14 @@ The theme of this year’s event was ‘Quo Vadis?’, which is latin for ‘whe
 ![Bookmark](/assets/images/tedx4.jpg)
 
 ### The Diary
+I believe that the TEDx event is better than all the others that take place on our campus and I wanted to express that feeling of mine. So I took a geometric pattern, drew an acute-angled **X** and played around with the opacity sliders to come up with this design.
+
+In a dull and grey sea, the **X** sails vibrantly.
+
 ![Diary1](/assets/images/tedx5.jpg)
+
+Credit to [Himanshu](https://www.instagram.com/16himanshu/) for helping me draw that **X**.
+
 ![Diary2](/assets/images/tedx6.jpg)
 
 ### The Laptop Sticker
