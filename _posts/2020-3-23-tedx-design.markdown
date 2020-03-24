@@ -21,12 +21,12 @@ In the paragraphs that follow, I’ll give a product by product breakdown of wha
 ### The Ticket 
 The ticket was the item I started with. At the time, I was very inspired by Virgil Abloh’s work and I wanted to incorporate his eccentric style into my design. A barcode was one of the first things that came to my mind when I envisioned a ticket and so, I decided to make it the hero of my design. I just wasn’t sure how.
 
-After playing around for a bit, I got the idea of placing one barcode over another to form the TEDx ‘X’ and just like that, I had my hero element.
+After playing around for a bit, I got the idea of placing one barcode over another to form the TEDx **X** and just like that, I had my hero element.
 
 ![Ticket1](/assets/images/tedx1.jpg)
 ![Ticket2](/assets/images/tedx2.jpg)
 
-At first, I had used dummy barcodes to form the X but then later I thought to myself, “why not use actual ones?” and so, I went to this website (link) and then generated a Code128 barcode which returned the text ‘TEDxNIITUniversity’ upon scanning and made the X using that.
+At first, I had used dummy barcodes to form the **X** but then later I thought to myself, “why not use actual ones?” and so, I went to [this website](https://barcode.tec-it.com/en/Code128) and generated a [Code 128](https://en.wikipedia.org/wiki/Code_128) barcode which returned the text ‘TEDxNIITUniversity’ upon scanning and made the **X** using that newly generated barcode.
 
 ![Ticket3](/assets/images/tedx3.jpg)
 
