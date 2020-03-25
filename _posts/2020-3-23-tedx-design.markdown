@@ -21,7 +21,7 @@ In the paragraphs that follow, I’ll give a product by product breakdown of wha
 ### The Ticket 
 The ticket was the item I started with. At the time, I was very inspired by Virgil Abloh’s work and I wanted to incorporate his eccentric style into my design. A barcode was one of the first things that came to my mind when I envisioned a ticket and I decided to make it the hero of my design. I just wasn’t sure how.
 
-After playing around for a bit, I got the idea of placing one barcode over another to form the **X**in TEDx and just like that, I had my hero element.
+After playing around for a bit, I got the idea of placing one barcode over another to form the **X** in TEDx and just like that, I had my hero element.
 
 ![Ticket1](/assets/images/tedx1.jpg)
 
