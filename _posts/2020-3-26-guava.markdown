@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Mango"
-date: 2020-3-24
+title: "Guava"
+date: 2020-3-26
 description: A Case Study
 image: /assets/images/tedxcover.jpg
 author: Pranav Mital
 tags: 
-  - None
+  - Design
   - None
   - ABC
 ---
