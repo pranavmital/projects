@@ -56,7 +56,7 @@ I started thinking of things I see in everyday life that are circular and after 
 
 ![Sticker1](/assets/images/tedx7.jpg)
 
-However, it wasn't well received and I was asked to come up with something else. That's when the idea of a vinyl record occurred to me.
+However, it wasn't well received and I was asked to come up with something else. That's when the idea of a vinyl record came to me.
 
 ![Sticker2](/assets/images/tedx8.jpg)
 
