@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TEDx Product Design"
-date: 2020-3-23
+date: 2020-1-2
 description: How I designed the contents of the official goodie bag of my university’s TEDx event - A Case Study
 image: /assets/images/tedxcover.jpg
 author: Pranav Mital
