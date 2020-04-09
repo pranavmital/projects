@@ -3,7 +3,7 @@ layout: post
 title: "The Senyera Podcast"
 date: 2020-1-1
 description: I spoke in The Senyera Podcast - A podcast about football. The episode received over 27K views.
-image: /assets/images/tedxcover.jpg
+image: /assets/images/podcastcover.png
 author: Pranav Mital
 tags: 
   - Podcast
