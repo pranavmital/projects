@@ -19,7 +19,7 @@ I worked as a Creative Editor at La Senyera from March 2018 to October 2018. One
 
 In the 4th episode, I spoke in the podcast. My co-host and I talked about transfer rumors and the then upcoming World Cup Final.
 
-The episode was aired live on [La Senyera's Facebook page](https://www.facebook.com/Lasenyera.en/) and over 3K viewers joined live. It has garnered 27K views till date. You can check out the episode below: 
+The episode was aired live on [La Senyera's Facebook Page](https://www.facebook.com/Lasenyera.en/) and over 3K viewers joined live. It has garnered 27K views till date. You can check out the episode below: 
 
 Skip to **1:30**. That's when I kick the the episode off. 
 
