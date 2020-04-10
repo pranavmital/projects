@@ -17,7 +17,7 @@ La Senyera is an internet media organisation that caters to news related to the 
 
 I worked as a Creative Editor at La Senyera from March 2018 to October 2018. One of things I did in my time there was conceptualising and initialising 'The Senyera Podcast' or 'La Senyera Podcast' (Spanish).
 
-In the 4th episode, I spoke in the podcast. My co-host and I talked about transfer rumors and the then upcoming World Cup Final.
+In the 4th episode, I spoke in the podcast. My co-host and I talked about transfer rumors and the then upcoming FIFA World Cup Final.
 
 The episode was aired live on [La Senyera's Facebook Page](https://www.facebook.com/Lasenyera.en/) and over 3K viewers joined live. It has garnered 27K views till date. You can check out the episode below: 
 
