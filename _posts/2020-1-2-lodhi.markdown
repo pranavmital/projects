@@ -3,7 +3,7 @@ layout: post
 title: "Lodhi Wallpaper Pack"
 date: 2020-1-2
 description: I spoke in The Senyera Podcast - A podcast about football. The episode received over 27K views.
-image: /assets/images/podcastcover.png
+image: /assets/images/lodhicover.jpg
 author: Pranav Mital
 tags: 
   - Podcast
