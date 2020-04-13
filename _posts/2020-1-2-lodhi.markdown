@@ -2,7 +2,7 @@
 layout: post
 title: "Lodhi Wallpaper Pack"
 date: 2020-1-2
-description: Wallpapers made out of pictures I clicked at Delhi's Lodhi Art District.
+description: Phone wallpapers made out of pictures I clicked at Delhi's Lodhi Art District.
 image: /assets/images/lodhicover.jpg
 author: Pranav Mital
 tags: 
