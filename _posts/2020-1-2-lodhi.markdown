@@ -8,6 +8,7 @@ author: Pranav Mital
 tags: 
   - Design
   - Phone
+  - Podcast
   - Common
 ---
 ![Cover](/assets/images/lodhihero.jpg#full)
@@ -44,6 +45,12 @@ I worked as a Creative Editor at La Senyera from March 2018 to October 2018. One
 ![6](/assets/images/lodhi/m6.jpg)
 [Download Link for **11**](/assets/images/lodhi/11.jpg)
 [Download Link for **12**](/assets/images/lodhi/12.jpg)
+
+
+![7](/assets/images/lodhi/m7.jpg)
+[Download Link for **13**](/assets/images/lodhi/13.jpg)
+[Download Link for **14**](/assets/images/lodhi/14.jpg)
+[Download Link for **15**](/assets/images/lodhi/15.jpg)
 
 In the 4th episode, I spoke in the podcast. My co-host and I talked about transfer rumors and the then upcoming FIFA World Cup Final.
 
