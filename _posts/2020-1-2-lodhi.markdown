@@ -11,7 +11,7 @@ tags:
   - FC Barcelona
   - La Senyera
 ---
-![Cover](/assets/images/lodhicover.jpg)
+![Cover](/assets/images/lodhihero.jpg#full)
 
 La Senyera is an internet media organisation that caters to news related to the Spanish football club FC Barcelona. It has over 460,000 followers on Facebook and over 75,000 followers on Instagram.
 
