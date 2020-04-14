@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: pranavmital.biz@gmail.com
 baseurl: ""
 permalink: /:title/
 google_analytics: 
@@ -7,9 +7,9 @@ google_analytics:
 name: Pranav Mital
 title: Pranav Mital | Projects
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Welcome to my online Project Portfolio!
 url: 
-twitter_username: thomasvaeth
+twitter_username: prxnav
 default_img: /assets/images/seo.jpg
 social:
   - name: instagram
