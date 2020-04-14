@@ -11,7 +11,7 @@ tags:
   - Podcast
   - Common
 ---
-![Cover](/assets/images/lodhihero.jpg#full)
+![Cover](/assets/images/lodhicover.jpg#full)
 
 The Lodhi Art District in Lodhi Colony is one my favourite places to take a walk in Delhi. In fact, it’s one of the only places I’d drive down to for a walk. 
 
