@@ -56,7 +56,7 @@ I started thinking of things I see in everyday life that are circular and after 
 
 However, it wasn't well received and I was asked to come up with something else. That's when the idea of a vinyl record came to me.
 
-![Sticker2](/assets/images/tedx8.jpg)
+![Sticker2](/assets/images/tedx8.jpg#full)
 
 One challenge that came with picking the vinyl idea was that it could be stuck by the user in any orientation because there isn't any 'correct orientation'. Because of this, I needed to make sure that the graphic at the center of the vinyl is orientation agnostic. This eliminated the possibilty of using a right-angled cross to form the **X** as that would look like a 'plus' if rotated, and this led to me choosing to place an acute-angled **X** in the vinyl. I looked through the repository of graphics our team had made for different purposes and found an interesting isometric illustration of the **X** which was made by my team lead, [Abhilash](https://www.behance.net/abhilashbhowmik). I decided to use that as the center graphic of my vinyl.  
 
