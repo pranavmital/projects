@@ -6,9 +6,6 @@ description: Phone wallpapers made out of pictures I clicked at Delhi's Lodhi Ar
 image: /assets/images/lodhicover.jpg
 author: Pranav Mital
 tags: 
-  - Design
-  - Phone
-  - Podcast
   - Common
 ---
 ![Cover](/assets/images/lodhicover.jpg#full)

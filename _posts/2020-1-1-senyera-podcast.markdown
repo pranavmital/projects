@@ -6,10 +6,6 @@ description: I spoke in The Senyera Podcast - A podcast about football. The epis
 image: /assets/images/podcastcover.png
 author: Pranav Mital
 tags: 
-  - Podcast
-  - Football
-  - FC Barcelona
-  - La Senyera
   - Common
 ---
 ![Cover](/assets/images/podcastcover.png)

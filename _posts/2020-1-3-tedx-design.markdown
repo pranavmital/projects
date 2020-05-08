@@ -6,9 +6,6 @@ description: How I designed the contents of the official goodie bag of my univer
 image: /assets/images/tedxcover.jpg
 author: Pranav Mital
 tags: 
-  - Design
-  - Product Design
-  - College
   - Common
 ---
 ![Cover](/assets/images/tedxcover.jpg)
