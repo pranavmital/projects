@@ -9,6 +9,7 @@ tags:
   - Design
   - Product Design
   - College
+  - Common
 ---
 ![Cover](/assets/images/tedxcover.jpg)
 

@@ -10,6 +10,7 @@ tags:
   - Football
   - FC Barcelona
   - La Senyera
+  - Common
 ---
 ![Cover](/assets/images/podcastcover.png)
 
