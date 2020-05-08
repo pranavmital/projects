@@ -21,7 +21,7 @@ The ticket was the item I started with. At the time, I was very inspired by Virg
 
 After playing around for a bit, I got the idea of placing one barcode over another to form the **X** in TEDx and just like that, I had my hero element.
 
-![Ticket1](/assets/images/tedx1.jpg)
+![Ticket1](/assets/images/tedx1.jpg#full)
 
 ![Ticket2](/assets/images/tedx2.jpg)
 
