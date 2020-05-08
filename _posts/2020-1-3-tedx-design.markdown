@@ -30,7 +30,7 @@ At first, I used dummy barcodes to form the **X** but then later thought to myse
 ### The Bookmark
 The theme of this year’s event was ‘Quo Vadis?’, which is latin for ‘where are we headed?’. In my design of the bookmark, I visually told the story of the journey of two rectangles which go from being mundane, easy to ignore shapes to becoming the famous **X** and thus showed ‘where they were headed’. 
 
-![Bookmark](/assets/images/tedx4.jpg)
+![Bookmark](/assets/images/tedx4.jpg#full)
 
 ### The Diary
 I believe that the TEDx event is better than all the others that take place on our campus and I wanted to express that feeling. I took a geometric pattern, drew an acute-angled **X** and played around with the opacity sliders to come up with this design.
