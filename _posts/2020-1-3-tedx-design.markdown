@@ -23,8 +23,6 @@ After playing around for a bit, I got the idea of placing one barcode over anoth
 
 ![Ticket1](/assets/images/tedx1.jpg#full)
 
-![Ticket2](/assets/images/tedx2.jpg)
-
 At first, I used dummy barcodes to form the **X** but then later thought to myself, “why not use actual ones?” and so, I went to [this website](https://barcode.tec-it.com/en/Code128) and generated a [Code 128](https://en.wikipedia.org/wiki/Code_128) barcode which returned the text ‘TEDxNIITUniversity’ upon scanning and made the **X** using that newly generated barcode.
 
 ![Ticket3](/assets/images/tedx3.jpg#full)
